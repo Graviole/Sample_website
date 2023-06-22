@@ -1,7 +1,50 @@
+.book-cover {
+    float: left;
+    margin: 0 40px 0 0;
+    height: 200px;
+}
+
+.book-presentation {
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fafafa;
+}
+
+.book-quote {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.ishmael {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: #f00;
+}
+
 .nav-spacing {
     margin: 0 0 0 10px;
 }
 
 .nav-menu {
     text-align: right;
+}
+
+.link-underline {
+    text-decoration: none;
+}
+
+.main-topic-mb {
+    text-align: center;
+    margin: 0 0 80px;
+}
+
+td {
+    padding: 10px;
+}
+
+.whale-image {
+    display: block;
+    margin: 0 auto;
 }
